@@ -1,0 +1,21 @@
+Traceback (most recent call last):
+  File "pdfdoc.py", line 6, in <module>
+    importlib.reload(sys)
+AttributeError: 'module' object has no attribute 'reload'
+Traceback (most recent call last):
+  File "pdfdoc.py", line 6, in <module>
+    importlib.reload(sys)
+AttributeError: 'module' object has no attribute 'reload'
+Traceback (most recent call last):
+  File "pdfdoc.py", line 6, in <module>
+    importlib.reload(sys)
+AttributeError: 'module' object has no attribute 'reload'
+Traceback (most recent call last):
+  File "pdfdoc.py", line 5, in <module>
+    importlib.reload(sys)
+AttributeError: 'module' object has no attribute 'reload'
+  File "pdfdoc.py", line 55
+    f.close()
+            ^
+TabError: inconsistent use of tabs and spaces in indentation
+WARNING:root:Cannot locate objid=9186
